@@ -17,6 +17,8 @@ The data cleaning required was not tedious as it was only the total charges colu
 The monthly and total charges columns were changed to the fixed decimal number (i.e the currency data type).    
 I replaced the 0s and 1s in the senior citizen column to No and Yes respectively.      
 I wanted to find out the way how the customers were grouped according to the monthly and total charges they paid. I created a conditional column grouping the aforementioned columns as shown below.      
+
+------![](monthlychargesgrouped.png) | ----![](totalchargesgrouped.png)
 Tenure, recorded in months which represents how long the customer had used PhoneNow’s services was also grouped into 6 different year buckets; less than 1 year, 1 year, 2 years, 3 years, 4 years and 5 years and more.     
 
 _There was no data modelling process required._   
