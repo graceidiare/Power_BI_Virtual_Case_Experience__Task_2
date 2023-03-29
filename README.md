@@ -29,7 +29,7 @@ Tenure(in years)|
 :---------------:
 ![](tenureinyears.png)
 
-_There was no data modelling process required._   
+_No data modelling process was required._   
 
 ### Analysis and Visualization;    
 
