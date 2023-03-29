@@ -71,9 +71,9 @@ Those who sign up for Phone Service have a 26.71% churn, a small difference from
 
 Streaming Movies and Streaming TV are strongly correlated, customers who sign up for Movies are also likely sign up for TV. Those who do not use the both services have a higher churn rate. Still, the difference between both choices aren't far apart. However, signing up for tech support has more noticeable impact on churn. Signing up for Online Security and Online backup affects churn. This is also noticed in device protection.       
 
-![](tenureyears.png)  
+![](tenureandchurn.png)  
 
-Most customers have been using this service for less than 10 months i.e less than a year. The churn rate reduces as customers continue using the services PhoneNow provides.    
+Most customers have been using this service for less than a year. The churn rate reduces as customers continue using the services PhoneNow provides.    
 
 
 ### Recommendations (_Email draft_);   
