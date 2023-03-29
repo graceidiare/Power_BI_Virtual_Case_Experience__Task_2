@@ -23,7 +23,7 @@ MonthlyCharges                     |       TotalCharges
 ![](montlychargesgrouped.png)            | ![](totalchargesgrouped.png)           
 
 
-Tenure, recorded in months which represents how long the customer had used PhoneNow’s services was also grouped into 6 different year buckets; less than 1 year, 1 year, 2 years, 3 years, 4 years and 5 years or more.    
+Tenure, recorded in months which represents how long the customer had been using PhoneNow’s services was also grouped into 6 different year buckets; less than 1 year, 1 year, 2 years, 3 years, 4 years and 5 years or more.    
 
 Tenure(in years)|   
 :---------------:
