@@ -84,6 +84,9 @@ As explained by the retention manager, customers in the telecom industry are har
 2. Customers should be encouraged to use Credit Card when making payments.      
 3. Adopt a non-paperless billing policy for convenience and faster payment.     
 4. Review pricing policies and structure.      
-5. Sensitize customers on the benefits of using internet service because services like streaming movies, streaming tv, tech support, device protection, online security and online backup depends on whether the customer uses internet service or not.    
+5. Sensitize customers on the benefits of using internet service because services like streaming movies, streaming tv, tech support, device protection, online security and online backup depends on whether the customer uses internet service or not.     
+
+
+Interact with dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMTc1Yjg4MjktYzcyZi00MTM4LTgwMWQtY2RkNWY4NzVmYzVkIiwidCI6ImIzY2I2YjJhLTU4MTYtNDczYi04MjcxLWU1MjU5OWNiZjY2ZSJ9)
 
 
