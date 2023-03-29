@@ -13,7 +13,7 @@ _The dataset contains 26 columns and 7043 rows. Each row contains a customer’s
 
 ### Data Cleaning/Transformation;   
 
-The data cleaning required was not tedious as it was only the total charges column that had nulls which I replaced with 0(only 11 rows recorded were like that).    
+The data cleaning required was not tedious. Nulls were only present in the total charges column, which I replaced with 0 (they were only 11 rows).    
 The monthly and total charges columns were changed to the fixed decimal number (i.e the currency data type).    
 I replaced the 0s and 1s in the senior citizen column to No and Yes respectively.      
 I wanted to find out the way how the customers were grouped according to the monthly and total charges they paid. I created a conditional column grouping the aforementioned columns as shown below.      
