@@ -46,7 +46,7 @@ To get an overview of the dataset, I calculated for the total customers, retaine
 
 ![](overview.png)
 
-As shown, the total number of customers as shown on the dashboard is 7,043. Out of which, 1869 are no longer customers. This indicates a 26.54% churn rate (industry standard is 31%). Retention is at a rate of 73.46%, which is quite laudable. While the churn rate is not skyrocket high, the team can take proactive measures can be taken to reduce it.    
+As shown, the total number of customers as shown on the dashboard is 7,043. Out of which, 1869 are no longer customers. This indicates a 26.54% churn rate (industry standard is 31%). Retention is at a rate of 73.46%, which is quite laudable. While the churn rate is not skyrocket high, the team can take proactive measures to reduce it.    
 
 PhoneNow is populated by both male and female customers, but there are fewer senior citizens and those without dependents.    
 
