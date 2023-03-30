@@ -69,7 +69,7 @@ The services a customer signs up for can have a significant impact on their rete
 
 Those who sign up for Phone Service have a 26.71% churn, a small difference from who don't. PhoneNow offers three (3) types of internet service with most customers using the Fiber Optic service. Unlike DSL, those who use the Fibre Optic service churn faster. Customers with multiple lines churn a little faster. But this is not a clear metric as the three (3) categories (Yes, No, and No Phone service) almost churn at the same rate. Also, those who don't use phone service also don't have multiple lines hence the recurring 24.93%.          
 
-Streaming Movies and Streaming TV are strongly correlated, customers who sign up for Movies are also likely sign up for TV. Those who do not use the both services have a higher churn rate. Still, the difference between both choices aren't far apart. However, signing up for tech support has more noticeable impact on churn. Signing up for Online Security and Online backup affects churn. This is also noticed in device protection.       
+Streaming Movies and Streaming TV are strongly correlated, customers who sign up for TV are also likely sign up for Movies. Those who do not use the both services have a higher churn rate. Still, the difference between both choices aren't far apart. However, signing up for tech support has more noticeable impact on churn. Signing up for Online Security and Online backup affects churn. This is also noticed in device protection.       
 
 ![](tenureandchurn.png)  
 
